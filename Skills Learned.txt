@@ -7,3 +7,4 @@ React Hooks used:
 * Conditional rendering for some components using if else statements and ternary operatiors
 
 This project requires the usage of the github api at: https://api.github.com
+TailwindCSS and daisyUI were used to style the components
