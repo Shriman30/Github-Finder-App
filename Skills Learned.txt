@@ -1,0 +1,9 @@
+React Hooks used:
+ - UseEffect
+ - UseContext (and createContext)
+ - UseReducer
+ - useState
+
+* Conditional rendering for some components using if else statements and ternary operatiors
+
+This project requires the usage of the github api at: https://api.github.com
